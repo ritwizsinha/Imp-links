@@ -6,3 +6,5 @@ Some  of the important links:-<br>
 (https://chris.beams.io/posts/git-commit/)<br>
 3. Kde Irc channels
 (https://userbase.kde.org/IRC_Channels)<br>
+4. Kde book for contributors
+(https://archive.flossmanuals.net)
