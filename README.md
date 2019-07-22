@@ -7,4 +7,4 @@ Some  of the important links:-<br>
 3. Kde Irc channels
 (https://userbase.kde.org/IRC_Channels)<br>
 4. Kde book for contributors
-(https://archive.flossmanuals.net)
+(https://archive.flossmanuals.net) // Dated  though
