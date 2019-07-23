@@ -14,3 +14,5 @@ Some  of the important links:-<br>
 (http://www.wechall.net/)<br>
 7. Challenges and articles on network security
 (https://www.hackthis.co.uk/)<br>
+8. Pentesting for hiring
+(https://www.hackthebox.eu/invite)
