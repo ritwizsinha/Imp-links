@@ -10,3 +10,7 @@ Some  of the important links:-<br>
 (https://archive.flossmanuals.net) // Dated  though<br>
 5. Git important commands
 (https://github.com/joshnh/Git-Commands)<br>
+6. List of challenge sites
+(http://www.wechall.net/)
+7. Challenges and articles on network security
+(https://www.hackthis.co.uk/)<br>
