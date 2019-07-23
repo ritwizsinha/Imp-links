@@ -15,6 +15,6 @@ Some  of the important links:-<br>
 7. Challenges and articles on network security
 (https://www.hackthis.co.uk/)<br>
 8. Pentesting for hiring
-(https://www.hackthebox.eu/invite)
+(https://www.hackthebox.eu/invite)<br>
 9. Some Resumes
 (https://drive.google.com/drive/folders/0Bx22n9vjnaXnUVJTRTJJZHd3RXM?fbclid=IwAR2QKeeFe4iGhBYnYZv_RcINq0Y_h5GECeF84AZfmPI5idWR2HtWdD9dGNE)
