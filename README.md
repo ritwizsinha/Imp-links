@@ -8,6 +8,5 @@ Some  of the important links:-<br>
 (https://userbase.kde.org/IRC_Channels)<br>
 4. Kde book for contributors
 (https://archive.flossmanuals.net) // Dated  though<br>
-
 5. Git important commands
 (https://github.com/joshnh/Git-Commands)<br>
