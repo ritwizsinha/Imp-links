@@ -18,3 +18,5 @@ Some  of the important links:-<br>
 (https://www.hackthebox.eu/invite)<br>
 9. Some Resumes
 (https://drive.google.com/drive/folders/0Bx22n9vjnaXnUVJTRTJJZHd3RXM?fbclid=IwAR2QKeeFe4iGhBYnYZv_RcINq0Y_h5GECeF84AZfmPI5idWR2HtWdD9dGNE)
+10. Git internal working 
+(https://www.youtube.com/watch?v=P6jD966jzlk)
