@@ -32,3 +32,5 @@ https://www.newbiecontest.org/<br>
 Newbie Contest is a french website that gather challenges from multiple categories like steganography, cryptography, programing, reverse engineering and more. There's also a forum if you need help.<br>
 
 14 https://dannorth.net/whats-in-a-story/ (Behaviour driven approach to development)
+15 https://www.ctf365.com (For practice)
+16 
